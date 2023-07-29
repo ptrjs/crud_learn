@@ -99,7 +99,7 @@ class _UserPageState extends State<UserPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("User List"),
+        title: const Text("Users List"),
         actions: const [],
       ),
       body: ListView.builder(
