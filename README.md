@@ -3,7 +3,7 @@ Flutter CRUD with REST API and architecture MVC
 
 1. User Page
 Contain a list of users with a floating button to add a user. And 2 buttons for edit and delete.
-<img src="https://github.com/ptrjs/crud_learn/assets/34370936/2ab2fa69b-c3a7-4d1c-ab95-92fa29e2e930" width="200">
+<img src="https://github.com/ptrjs/crud_learn/assets/34370936/d7cf7039-0891-431e-a10b-4d08a4c6cb23" width="200">
 
 
 2. User Detail
