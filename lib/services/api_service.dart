@@ -2,7 +2,7 @@ import 'package:crud_learn/models/user.dart';
 import 'package:dio/dio.dart';
 
 class ApiService {
-  static const baseUrl = 'https://capekngoding.com/6285390565586/api';
+  static const baseUrl = 'API';
   Dio dio = Dio();
 
   Future<List<User>> fetchUsers() async {
